@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+env/
+
+# Trained model files (re-create them by training)
+models/*.joblib
+
+# Editors / OS
+.DS_Store
+Thumbs.db
+.idea/
